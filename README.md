@@ -6,5 +6,6 @@ kid’s way of learning has changed. Learning and teaching materials has shifted
 more sophisticated gadgets that supports teaching and learning at any level.  
  
 Mnimi is one such application aimed to aid kids learning the fun way and in process giving regular and
-required practice to their brains to develop and enhance their memory skills.  
+required practice to their brains to develop and enhance their memory skills. 
+  Mnimi is Greek word for memory 
  
